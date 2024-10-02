@@ -1,9 +1,10 @@
+// COMSC-210 | Lab 14 | Dan Pokhrel
 #include <iostream>
 using namespace std;
 
 int main() {
 
-    // add any code here, sort of a 'hello world plus' code block
+    cout << "Hello World";
 
     return 0;
 }
